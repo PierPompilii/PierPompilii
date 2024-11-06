@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PierPompilii
+- 👋 Hi, I’m Pier Bruno Pompilii
 - 👀  I’m a Junior Data Scientist/Biologist
 - 💞️ I’m Seeking opportunities to apply my ML/data skills in challenging environments.
 - 📫 How to reach me pompiliipier@gmail.com or Linkedln 
